@@ -1,1 +1,1 @@
-# drawingMachineV2
+# drawing-machine
